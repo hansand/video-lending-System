@@ -1,2 +1,2 @@
 # video-lending-System
-Javvaa  aapppplliiccaattiioonn
+java  Application
